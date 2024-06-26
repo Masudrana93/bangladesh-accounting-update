@@ -204,3 +204,11 @@ div#navbarNavDropdown> ul>li>a {
     border-top-right-radius: .50rem !important;
 }
 
+.member-font p {
+    font-size: 16px;
+}
+
+.life-member-scrollbar {
+    overflow-y: scroll;
+    height: 600px;
+}

@@ -195,3 +195,12 @@ div#navbarNavDropdown> ul>li>a {
     color: white;
     transition: all 1s;
 }
+.president-speech p {
+    text-align: justify;
+}
+
+.rounded-top {
+    border-top-left-radius: .50rem !important;
+    border-top-right-radius: .50rem !important;
+}
+
